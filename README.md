@@ -12,16 +12,16 @@ _En este apartado solo voy a dejarles copia de los archivos que hay que editar p
 ### Pre-requisitos 📋
 
 _Para comenzar necesitas lo siguiente:_
-_1- Una instalación válida de Codeigniter 3.1.7_
-_2- Datos de configuración de una cuenta SMTP_
-_    a) SERVIDOR SMTP_
-_    b) NOMBRE DE USUARIO SMTP_
-_    c) CONTRASEÑA DE USUARIO SMTP_
-_    d) PUERTO SMTP_
-_    e) DIRECCIÓN EMAIL DE ENVÍO_
-_    f) NOMBRE DE USUARIO QUE ENVÍA_
-_    g) NOMBRE DE LA EMPRESA O SISTEMA_
-_    h) LISTA DE CORREOS ADMIN_
+*1- Una instalación válida de Codeigniter 3.1.7
+*2- Datos de configuración de una cuenta SMTP
+*    a) SERVIDOR SMTP
+*    b) NOMBRE DE USUARIO SMTP
+*    c) CONTRASEÑA DE USUARIO SMTP
+*    d) PUERTO SMTP
+*    e) DIRECCIÓN EMAIL DE ENVÍO
+*    f) NOMBRE DE USUARIO QUE ENVÍA
+*    g) NOMBRE DE LA EMPRESA O SISTEMA
+*    h) LISTA DE CORREOS ADMIN
 
 Mira archivo **constants** en el **application/config** para conocer como colocarlos.
 
