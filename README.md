@@ -128,7 +128,7 @@ _Lo siguiente es crear una vista de mail HTML que será el reusltado final junto
                 <tr>
                     <td align="center" valign="top" style="padding: 15px 0;-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;mso-table-lspace: 0pt;mso-table-rspace: 0pt;" class="logo">
                         <a href="http://litmus.com" target="_blank" style="-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;">
-                            <img alt="Logo" src="https://foreing.webtiginoso.com/img/img_corp/Bululu.png" width="60" height="60" style="display: block;font-family: Helvetica, Arial, sans-serif;color: #ffffff;font-size: 16px;-ms-interpolation-mode: bicubic;border: 0;height: auto;line-height: 100%;outline: none;text-decoration: none;" border="0">
+                            <img alt="Logo" src="https://yourlogourl.com" width="60" height="60" style="display: block;font-family: Helvetica, Arial, sans-serif;color: #ffffff;font-size: 16px;-ms-interpolation-mode: bicubic;border: 0;height: auto;line-height: 100%;outline: none;text-decoration: none;" border="0">
                         </a>
                     </td>
                 </tr>
@@ -182,7 +182,7 @@ _Lo siguiente es crear una vista de mail HTML que será el reusltado final junto
             <table width="100%" border="0" cellspacing="0" cellpadding="0" align="center" style="max-width: 500px;-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;mso-table-lspace: 0pt;mso-table-rspace: 0pt;border-collapse: collapse !important;" class="responsive-table">
                 <tr>
                     <td align="center" style="font-size: 12px;line-height: 18px;font-family: Helvetica, Arial, sans-serif;color: #666666;-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;mso-table-lspace: 0pt;mso-table-rspace: 0pt;">
-                        Business Intelligence Bot
+                        your company message
                     </td>
                 </tr>
             </table>
